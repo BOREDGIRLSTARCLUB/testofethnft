@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x4fC6bc96DFd204fd5804df4569991c9026920c87",
+  "SCAN_LINK": "https://polygonscan.com/token/0x4fC6bc96DFd204fd5804df4569991c9026920c87",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bored Girl Star Club",
+  "SYMBOL": "BGSC",
+  "MAX_SUPPLY": 3210,
+  "WEI_COST": 250000000000000000,
+  "DISPLAY_COST": 0.25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bored-girl-star-club",
+  "SHOW_BACKGROUND": true
+}
