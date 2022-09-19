@@ -1,13 +1,13 @@
 {
-  "CONTRACT_ADDRESS": "0x4fC6bc96DFd204fd5804df4569991c9026920c87",
-  "SCAN_LINK": "https://polygonscan.com/token/0x4fC6bc96DFd204fd5804df4569991c9026920c87",
+  "CONTRACT_ADDRESS": "0x66958Cbd57bd33D511791299B876Ce7a2E0669B2",
+  "SCAN_LINK": "https://etherscan.com/token/0x66958Cbd57bd33D511791299B876Ce7a2E0669B2",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Ethereum",
+    "SYMBOL": "ETH",
+    "ID": 1
   },
-  "NFT_NAME": "Bored Girl Star Club",
-  "SYMBOL": "BGSC",
+  "NFT_NAME": "BoredPixelApes",
+  "SYMBOL": "BPA",
   "MAX_SUPPLY": 3210,
   "WEI_COST": 3210000000000000000,
   "DISPLAY_COST": 3.210,
