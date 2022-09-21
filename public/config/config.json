@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 4999,
   "WEI_COST": 990000000000000,
   "DISPLAY_COST": 0.0099,
-  "GAS_LIMIT": 85000,
+  "GAS_LIMIT": 65000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/bored-girl-star-club",
   "SHOW_BACKGROUND": true
