@@ -2,15 +2,15 @@
   "CONTRACT_ADDRESS": "0x66958Cbd57bd33D511791299B876Ce7a2E0669B2",
   "SCAN_LINK": "https://etherscan.com/token/0x66958Cbd57bd33D511791299B876Ce7a2E0669B2",
   "NETWORK": {
-    "NAME": "Ethereum",
-    "SYMBOL": "ETH",
-    "ID": 1
+    "NAME": "Polygon",
+    "SYMBOL": "MATIC",
+    "ID": 137
   },
   "NFT_NAME": "BoredPixelApes",
   "SYMBOL": "BPA",
-  "MAX_SUPPLY": 3210,
-  "WEI_COST": 0,
-  "DISPLAY_COST": 0,
+  "MAX_SUPPLY": 4999,
+  "WEI_COST": 990000000000000,
+  "DISPLAY_COST": 0.0099,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/bored-girl-star-club",
